@@ -1,5 +1,3 @@
-// scripts.js
-
 alert('test');
 var name = prompt('Enter your name');
 alert('Hello, ' + name);
